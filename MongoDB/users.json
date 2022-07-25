@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "62d966406a8ac33f84c7dd0d"
+  },
+  "username": "hien123",
+  "password": "$2b$12$s4XWaLZ0O5AIUW0GA4zQCuw5aJNJaNJkvFH/PDvYibfzSTtskb/k6",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658414656723"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1658414656723"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d96b366a8ac33f84c7dd23"
+  },
+  "username": "hien12",
+  "password": "$2b$12$AIiq9Cighx5HufrAYMg5JelTuSaegoOBD5oZOECaNlUk8ZjrwzoHG",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658415926474"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1658415926474"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d96b406a8ac33f84c7dd28"
+  },
+  "username": "hie",
+  "password": "$2b$12$7X4tlOICpSn5hr7YZuNxueOAQzwReYh9jTvyXCAkMNgW5SPWg3TzK",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658415936486"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1658415936486"
+    }
+  }
+}]

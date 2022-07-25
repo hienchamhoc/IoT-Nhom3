@@ -1,0 +1,2960 @@
+[{
+  "_id": {
+    "$oid": "62d973db62f7af6623c97a63"
+  },
+  "temperature": 24,
+  "humidity": 50,
+  "time": {
+    "$date": {
+      "$numberLong": "1658417176742"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d973e962f7af6623c97a75"
+  },
+  "temperature": 32,
+  "humidity": 51,
+  "time": {
+    "$date": {
+      "$numberLong": "1658417176742"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ab7c71ef1d8fb6927d0"
+  },
+  "temperature": 23,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ad9c71ef1d8fb6927e1"
+  },
+  "temperature": 25,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97af2c71ef1d8fb6927f2"
+  },
+  "temperature": 22,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97b38c71ef1d8fb692803"
+  },
+  "temperature": 35,
+  "humidity": 57,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97b3dc71ef1d8fb692814"
+  },
+  "temperature": 29,
+  "humidity": 54,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97b6cc71ef1d8fb69282b"
+  },
+  "temperature": 30,
+  "humidity": 58,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97b6cc71ef1d8fb692833"
+  },
+  "temperature": 30,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97b6dc71ef1d8fb69284b"
+  },
+  "temperature": 36,
+  "humidity": 60,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97b6dc71ef1d8fb69285b"
+  },
+  "temperature": 20,
+  "humidity": 55,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97b6fc71ef1d8fb69286b"
+  },
+  "temperature": 30,
+  "humidity": 65,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97b73c71ef1d8fb69287d"
+  },
+  "temperature": 25,
+  "humidity": 65,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97b78c71ef1d8fb69288e"
+  },
+  "temperature": 38,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97b7ec71ef1d8fb69289f"
+  },
+  "temperature": 38,
+  "humidity": 54,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97b82c71ef1d8fb6928b0"
+  },
+  "temperature": 31,
+  "humidity": 60,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97b88c71ef1d8fb6928c1"
+  },
+  "temperature": 34,
+  "humidity": 50,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97b8cc71ef1d8fb6928d2"
+  },
+  "temperature": 21,
+  "humidity": 69,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97b91c71ef1d8fb6928e3"
+  },
+  "temperature": 31,
+  "humidity": 61,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97b96c71ef1d8fb6928f4"
+  },
+  "temperature": 39,
+  "humidity": 61,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97b9bc71ef1d8fb692905"
+  },
+  "temperature": 34,
+  "humidity": 61,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ba1c71ef1d8fb692916"
+  },
+  "temperature": 31,
+  "humidity": 58,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ba6c71ef1d8fb692927"
+  },
+  "temperature": 24,
+  "humidity": 58,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97babc71ef1d8fb692938"
+  },
+  "temperature": 28,
+  "humidity": 62,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97bb0c71ef1d8fb692949"
+  },
+  "temperature": 26,
+  "humidity": 67,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97bb5c71ef1d8fb69295a"
+  },
+  "temperature": 39,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97bbac71ef1d8fb69296b"
+  },
+  "temperature": 37,
+  "humidity": 59,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97bbfc71ef1d8fb69297c"
+  },
+  "temperature": 32,
+  "humidity": 51,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97bc4c71ef1d8fb69298d"
+  },
+  "temperature": 25,
+  "humidity": 61,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97bc9c71ef1d8fb69299e"
+  },
+  "temperature": 22,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97bcec71ef1d8fb6929af"
+  },
+  "temperature": 37,
+  "humidity": 65,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97bd2c71ef1d8fb6929c0"
+  },
+  "temperature": 34,
+  "humidity": 55,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97bd7c71ef1d8fb6929d1"
+  },
+  "temperature": 32,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97bddc71ef1d8fb6929e2"
+  },
+  "temperature": 23,
+  "humidity": 59,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97be2c71ef1d8fb6929f3"
+  },
+  "temperature": 38,
+  "humidity": 53,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97be7c71ef1d8fb692a04"
+  },
+  "temperature": 34,
+  "humidity": 50,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97becc71ef1d8fb692a15"
+  },
+  "temperature": 32,
+  "humidity": 65,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97bf1c71ef1d8fb692a26"
+  },
+  "temperature": 39,
+  "humidity": 50,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97bf6c71ef1d8fb692a37"
+  },
+  "temperature": 27,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97bfbc71ef1d8fb692a48"
+  },
+  "temperature": 36,
+  "humidity": 65,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c00c71ef1d8fb692a59"
+  },
+  "temperature": 26,
+  "humidity": 66,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c05c71ef1d8fb692a6a"
+  },
+  "temperature": 30,
+  "humidity": 60,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c0ac71ef1d8fb692a7b"
+  },
+  "temperature": 27,
+  "humidity": 60,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c0fc71ef1d8fb692a8c"
+  },
+  "temperature": 32,
+  "humidity": 50,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c14c71ef1d8fb692a9d"
+  },
+  "temperature": 35,
+  "humidity": 52,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c19c71ef1d8fb692aae"
+  },
+  "temperature": 29,
+  "humidity": 54,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c1cc71ef1d8fb692ac0"
+  },
+  "temperature": 39,
+  "humidity": 66,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c21c71ef1d8fb692ad1"
+  },
+  "temperature": 23,
+  "humidity": 65,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c26c71ef1d8fb692ae2"
+  },
+  "temperature": 23,
+  "humidity": 60,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c2bc71ef1d8fb692af3"
+  },
+  "temperature": 34,
+  "humidity": 67,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c30c71ef1d8fb692b04"
+  },
+  "temperature": 34,
+  "humidity": 61,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c36c71ef1d8fb692b16"
+  },
+  "temperature": 37,
+  "humidity": 66,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c3bc71ef1d8fb692b27"
+  },
+  "temperature": 20,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c40c71ef1d8fb692b38"
+  },
+  "temperature": 22,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c46c71ef1d8fb692b49"
+  },
+  "temperature": 28,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c4bc71ef1d8fb692b5a"
+  },
+  "temperature": 22,
+  "humidity": 55,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c50c71ef1d8fb692b6b"
+  },
+  "temperature": 39,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c55c71ef1d8fb692b7c"
+  },
+  "temperature": 27,
+  "humidity": 69,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c5ac71ef1d8fb692b8d"
+  },
+  "temperature": 25,
+  "humidity": 66,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c5fc71ef1d8fb692b9e"
+  },
+  "temperature": 29,
+  "humidity": 67,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c64c71ef1d8fb692baf"
+  },
+  "temperature": 21,
+  "humidity": 50,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c69c71ef1d8fb692bc0"
+  },
+  "temperature": 24,
+  "humidity": 58,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c6ec71ef1d8fb692bd1"
+  },
+  "temperature": 28,
+  "humidity": 64,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c72c71ef1d8fb692be2"
+  },
+  "temperature": 35,
+  "humidity": 52,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c77c71ef1d8fb692bf3"
+  },
+  "temperature": 39,
+  "humidity": 53,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c7cc71ef1d8fb692c04"
+  },
+  "temperature": 27,
+  "humidity": 53,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c81c71ef1d8fb692c15"
+  },
+  "temperature": 21,
+  "humidity": 67,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c86c71ef1d8fb692c26"
+  },
+  "temperature": 26,
+  "humidity": 65,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c8cc71ef1d8fb692c37"
+  },
+  "temperature": 22,
+  "humidity": 55,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c90c71ef1d8fb692c48"
+  },
+  "temperature": 35,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c96c71ef1d8fb692c59"
+  },
+  "temperature": 37,
+  "humidity": 51,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97c9bc71ef1d8fb692c6a"
+  },
+  "temperature": 26,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ca0c71ef1d8fb692c7b"
+  },
+  "temperature": 26,
+  "humidity": 65,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ca5c71ef1d8fb692c8c"
+  },
+  "temperature": 33,
+  "humidity": 57,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97caac71ef1d8fb692c9d"
+  },
+  "temperature": 26,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97caec71ef1d8fb692cae"
+  },
+  "temperature": 21,
+  "humidity": 57,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97cb4c71ef1d8fb692cbf"
+  },
+  "temperature": 28,
+  "humidity": 60,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97cb9c71ef1d8fb692cd0"
+  },
+  "temperature": 32,
+  "humidity": 50,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97cbdc71ef1d8fb692ce1"
+  },
+  "temperature": 29,
+  "humidity": 59,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97cc2c71ef1d8fb692cf2"
+  },
+  "temperature": 39,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97cc8c71ef1d8fb692d03"
+  },
+  "temperature": 34,
+  "humidity": 50,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ccdc71ef1d8fb692d14"
+  },
+  "temperature": 26,
+  "humidity": 56,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97cd2c71ef1d8fb692d25"
+  },
+  "temperature": 31,
+  "humidity": 53,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97cd7c71ef1d8fb692d36"
+  },
+  "temperature": 31,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97cdcc71ef1d8fb692d47"
+  },
+  "temperature": 30,
+  "humidity": 67,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ce1c71ef1d8fb692d58"
+  },
+  "temperature": 34,
+  "humidity": 58,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ce6c71ef1d8fb692d69"
+  },
+  "temperature": 31,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ce6c71ef1d8fb692d7a"
+  },
+  "temperature": 29,
+  "humidity": 65,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97cebc71ef1d8fb692d8b"
+  },
+  "temperature": 27,
+  "humidity": 64,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97cebc71ef1d8fb692d9c"
+  },
+  "temperature": 33,
+  "humidity": 57,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97cefc71ef1d8fb692dad"
+  },
+  "temperature": 23,
+  "humidity": 62,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97cf2c71ef1d8fb692dbf"
+  },
+  "temperature": 25,
+  "humidity": 64,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97cf8c71ef1d8fb692dd0"
+  },
+  "temperature": 25,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97cfdc71ef1d8fb692de1"
+  },
+  "temperature": 20,
+  "humidity": 66,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d02c71ef1d8fb692df2"
+  },
+  "temperature": 24,
+  "humidity": 58,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d07c71ef1d8fb692e03"
+  },
+  "temperature": 26,
+  "humidity": 67,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d0cc71ef1d8fb692e14"
+  },
+  "temperature": 27,
+  "humidity": 54,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d11c71ef1d8fb692e25"
+  },
+  "temperature": 31,
+  "humidity": 60,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d16c71ef1d8fb692e36"
+  },
+  "temperature": 30,
+  "humidity": 51,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d1bc71ef1d8fb692e47"
+  },
+  "temperature": 22,
+  "humidity": 60,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d20c71ef1d8fb692e58"
+  },
+  "temperature": 24,
+  "humidity": 66,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d25c71ef1d8fb692e69"
+  },
+  "temperature": 39,
+  "humidity": 66,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d2ac71ef1d8fb692e7a"
+  },
+  "temperature": 32,
+  "humidity": 62,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d2fc71ef1d8fb692e8b"
+  },
+  "temperature": 28,
+  "humidity": 61,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d34c71ef1d8fb692e9c"
+  },
+  "temperature": 35,
+  "humidity": 52,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d39c71ef1d8fb692ead"
+  },
+  "temperature": 36,
+  "humidity": 56,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d3ec71ef1d8fb692ebe"
+  },
+  "temperature": 36,
+  "humidity": 64,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d43c71ef1d8fb692ecf"
+  },
+  "temperature": 28,
+  "humidity": 52,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d48c71ef1d8fb692ee0"
+  },
+  "temperature": 29,
+  "humidity": 51,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d4dc71ef1d8fb692ef1"
+  },
+  "temperature": 35,
+  "humidity": 69,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d52c71ef1d8fb692f02"
+  },
+  "temperature": 39,
+  "humidity": 54,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d57c71ef1d8fb692f13"
+  },
+  "temperature": 24,
+  "humidity": 52,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d5cc71ef1d8fb692f24"
+  },
+  "temperature": 25,
+  "humidity": 53,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d61c71ef1d8fb692f35"
+  },
+  "temperature": 38,
+  "humidity": 67,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d66c71ef1d8fb692f46"
+  },
+  "temperature": 32,
+  "humidity": 52,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d6bc71ef1d8fb692f57"
+  },
+  "temperature": 39,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d70c71ef1d8fb692f68"
+  },
+  "temperature": 27,
+  "humidity": 69,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d75c71ef1d8fb692f79"
+  },
+  "temperature": 22,
+  "humidity": 65,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d7ac71ef1d8fb692f8a"
+  },
+  "temperature": 35,
+  "humidity": 61,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d7fc71ef1d8fb692f9b"
+  },
+  "temperature": 29,
+  "humidity": 62,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d84c71ef1d8fb692fac"
+  },
+  "temperature": 21,
+  "humidity": 67,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d89c71ef1d8fb692fbd"
+  },
+  "temperature": 21,
+  "humidity": 53,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d8ec71ef1d8fb692fce"
+  },
+  "temperature": 29,
+  "humidity": 65,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d93c71ef1d8fb692fdf"
+  },
+  "temperature": 32,
+  "humidity": 62,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d98c71ef1d8fb692ff0"
+  },
+  "temperature": 28,
+  "humidity": 58,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97d9dc71ef1d8fb693001"
+  },
+  "temperature": 35,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97da2c71ef1d8fb693012"
+  },
+  "temperature": 23,
+  "humidity": 57,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97da7c71ef1d8fb693023"
+  },
+  "temperature": 23,
+  "humidity": 59,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97dacc71ef1d8fb693034"
+  },
+  "temperature": 37,
+  "humidity": 56,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97db1c71ef1d8fb693045"
+  },
+  "temperature": 35,
+  "humidity": 57,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97db6c71ef1d8fb693056"
+  },
+  "temperature": 25,
+  "humidity": 65,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97dbbc71ef1d8fb693067"
+  },
+  "temperature": 37,
+  "humidity": 61,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97dc0c71ef1d8fb693078"
+  },
+  "temperature": 31,
+  "humidity": 57,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97dc5c71ef1d8fb693089"
+  },
+  "temperature": 30,
+  "humidity": 69,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97dcac71ef1d8fb69309a"
+  },
+  "temperature": 28,
+  "humidity": 66,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97dcfc71ef1d8fb6930ab"
+  },
+  "temperature": 20,
+  "humidity": 56,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97dd4c71ef1d8fb6930bc"
+  },
+  "temperature": 22,
+  "humidity": 64,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97dd9c71ef1d8fb6930cd"
+  },
+  "temperature": 22,
+  "humidity": 52,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ddec71ef1d8fb6930de"
+  },
+  "temperature": 37,
+  "humidity": 50,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97de3c71ef1d8fb6930ef"
+  },
+  "temperature": 24,
+  "humidity": 59,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97de8c71ef1d8fb693100"
+  },
+  "temperature": 32,
+  "humidity": 64,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97dedc71ef1d8fb693111"
+  },
+  "temperature": 27,
+  "humidity": 67,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97df2c71ef1d8fb693122"
+  },
+  "temperature": 26,
+  "humidity": 59,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97df5c71ef1d8fb693133"
+  },
+  "temperature": 29,
+  "humidity": 61,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97df7c71ef1d8fb693144"
+  },
+  "temperature": 27,
+  "humidity": 58,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97dfac71ef1d8fb693155"
+  },
+  "temperature": 20,
+  "humidity": 53,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97dfcc71ef1d8fb693166"
+  },
+  "temperature": 25,
+  "humidity": 56,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97dfcc71ef1d8fb693177"
+  },
+  "temperature": 21,
+  "humidity": 52,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e02c71ef1d8fb693188"
+  },
+  "temperature": 35,
+  "humidity": 54,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e07c71ef1d8fb693199"
+  },
+  "temperature": 28,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e0dc71ef1d8fb6931aa"
+  },
+  "temperature": 27,
+  "humidity": 66,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e12c71ef1d8fb6931bb"
+  },
+  "temperature": 37,
+  "humidity": 52,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e17c71ef1d8fb6931cc"
+  },
+  "temperature": 30,
+  "humidity": 59,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e1bc71ef1d8fb6931dd"
+  },
+  "temperature": 32,
+  "humidity": 57,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e20c71ef1d8fb6931ee"
+  },
+  "temperature": 26,
+  "humidity": 62,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e25c71ef1d8fb6931ff"
+  },
+  "temperature": 30,
+  "humidity": 54,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e2ac71ef1d8fb693210"
+  },
+  "temperature": 33,
+  "humidity": 51,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e30c71ef1d8fb693221"
+  },
+  "temperature": 21,
+  "humidity": 69,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e34c71ef1d8fb693232"
+  },
+  "temperature": 31,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e39c71ef1d8fb693243"
+  },
+  "temperature": 22,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e3ec71ef1d8fb693254"
+  },
+  "temperature": 31,
+  "humidity": 51,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e44c71ef1d8fb693265"
+  },
+  "temperature": 29,
+  "humidity": 57,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e49c71ef1d8fb693276"
+  },
+  "temperature": 27,
+  "humidity": 53,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e4ec71ef1d8fb693287"
+  },
+  "temperature": 32,
+  "humidity": 64,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e53c71ef1d8fb693298"
+  },
+  "temperature": 39,
+  "humidity": 69,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e58c71ef1d8fb6932a9"
+  },
+  "temperature": 32,
+  "humidity": 61,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e5dc71ef1d8fb6932ba"
+  },
+  "temperature": 29,
+  "humidity": 56,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e62c71ef1d8fb6932cb"
+  },
+  "temperature": 30,
+  "humidity": 52,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e67c71ef1d8fb6932dc"
+  },
+  "temperature": 27,
+  "humidity": 55,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e6cc71ef1d8fb6932ed"
+  },
+  "temperature": 38,
+  "humidity": 60,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e71c71ef1d8fb6932fe"
+  },
+  "temperature": 22,
+  "humidity": 55,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e76c71ef1d8fb69330f"
+  },
+  "temperature": 36,
+  "humidity": 61,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e7bc71ef1d8fb693320"
+  },
+  "temperature": 31,
+  "humidity": 54,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e80c71ef1d8fb693331"
+  },
+  "temperature": 32,
+  "humidity": 62,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e85c71ef1d8fb693342"
+  },
+  "temperature": 39,
+  "humidity": 56,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e8ac71ef1d8fb693353"
+  },
+  "temperature": 20,
+  "humidity": 62,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e8fc71ef1d8fb693364"
+  },
+  "temperature": 32,
+  "humidity": 58,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e94c71ef1d8fb693375"
+  },
+  "temperature": 20,
+  "humidity": 55,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e99c71ef1d8fb693386"
+  },
+  "temperature": 23,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97e9ec71ef1d8fb693397"
+  },
+  "temperature": 33,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ea3c71ef1d8fb6933a8"
+  },
+  "temperature": 37,
+  "humidity": 66,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ea8c71ef1d8fb6933b9"
+  },
+  "temperature": 23,
+  "humidity": 54,
+  "time": {
+    "$date": {
+      "$numberLong": "1658419160518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97eb022dcb02b059c1174"
+  },
+  "temperature": 39,
+  "humidity": 57,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97eb222dcb02b059c1185"
+  },
+  "temperature": 35,
+  "humidity": 56,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97eb622dcb02b059c1196"
+  },
+  "temperature": 22,
+  "humidity": 65,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97eba22dcb02b059c11a8"
+  },
+  "temperature": 31,
+  "humidity": 67,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ec022dcb02b059c11b9"
+  },
+  "temperature": 26,
+  "humidity": 66,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ec422dcb02b059c11ca"
+  },
+  "temperature": 32,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97eca22dcb02b059c11db"
+  },
+  "temperature": 37,
+  "humidity": 64,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ecf22dcb02b059c11ec"
+  },
+  "temperature": 38,
+  "humidity": 51,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ed422dcb02b059c11fd"
+  },
+  "temperature": 32,
+  "humidity": 51,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ed922dcb02b059c120e"
+  },
+  "temperature": 35,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ede22dcb02b059c121f"
+  },
+  "temperature": 20,
+  "humidity": 66,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ee322dcb02b059c1230"
+  },
+  "temperature": 28,
+  "humidity": 59,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ee822dcb02b059c1241"
+  },
+  "temperature": 20,
+  "humidity": 50,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97eec22dcb02b059c1252"
+  },
+  "temperature": 28,
+  "humidity": 56,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ef122dcb02b059c1267"
+  },
+  "temperature": 26,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97ef622dcb02b059c1284"
+  },
+  "temperature": 35,
+  "humidity": 64,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97efc22dcb02b059c129e"
+  },
+  "temperature": 39,
+  "humidity": 61,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f0122dcb02b059c12bb"
+  },
+  "temperature": 25,
+  "humidity": 50,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f0622dcb02b059c12d4"
+  },
+  "temperature": 28,
+  "humidity": 67,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f0b22dcb02b059c12ea"
+  },
+  "temperature": 30,
+  "humidity": 50,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f1122dcb02b059c12fb"
+  },
+  "temperature": 34,
+  "humidity": 65,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f1622dcb02b059c130c"
+  },
+  "temperature": 25,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f1b22dcb02b059c131d"
+  },
+  "temperature": 22,
+  "humidity": 59,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f2022dcb02b059c132e"
+  },
+  "temperature": 39,
+  "humidity": 56,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f2522dcb02b059c133f"
+  },
+  "temperature": 25,
+  "humidity": 53,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f2a22dcb02b059c1350"
+  },
+  "temperature": 29,
+  "humidity": 59,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f2f22dcb02b059c1361"
+  },
+  "temperature": 29,
+  "humidity": 57,
+  "time": {
+    "$date": {
+      "$numberLong": "1658420912442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f3bb52bae9963adffaf"
+  },
+  "temperature": 33,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421051209"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f3eb52bae9963adffc0"
+  },
+  "temperature": 26,
+  "humidity": 62,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421051209"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f42b52bae9963adffd2"
+  },
+  "temperature": 37,
+  "humidity": 62,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421051209"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f49b52bae9963adffe3"
+  },
+  "temperature": 20,
+  "humidity": 61,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421051209"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f4eb52bae9963adfff4"
+  },
+  "temperature": 32,
+  "humidity": 55,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421051209"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f53b52bae9963ae0005"
+  },
+  "temperature": 37,
+  "humidity": 58,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421051209"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f58b52bae9963ae0016"
+  },
+  "temperature": 36,
+  "humidity": 53,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421051209"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f5db52bae9963ae0027"
+  },
+  "temperature": 31,
+  "humidity": 64,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421051209"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f67fb795a98d965e7eb"
+  },
+  "temperature": 23,
+  "humidity": 54,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421094248"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f6bfb795a98d965e7fc"
+  },
+  "temperature": 37,
+  "humidity": 56,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421094248"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f6efb795a98d965e80e"
+  },
+  "temperature": 30,
+  "humidity": 65,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421094248"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f74fb795a98d965e823"
+  },
+  "temperature": 37,
+  "humidity": 53,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421094248"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f7afb795a98d965e838"
+  },
+  "temperature": 36,
+  "humidity": 66,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421094248"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f7ffb795a98d965e849"
+  },
+  "temperature": 20,
+  "humidity": 56,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421094248"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f84fb795a98d965e85a"
+  },
+  "temperature": 23,
+  "humidity": 69,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421094248"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f89fb795a98d965e86b"
+  },
+  "temperature": 24,
+  "humidity": 64,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421094248"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f951205865caccce160"
+  },
+  "temperature": 26,
+  "humidity": 54,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421139069"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97f9b1205865caccce171"
+  },
+  "temperature": 38,
+  "humidity": 59,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421139069"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97fa01205865caccce182"
+  },
+  "temperature": 30,
+  "humidity": 61,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421139069"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97fa51205865caccce193"
+  },
+  "temperature": 36,
+  "humidity": 65,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421139069"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97faa1205865caccce1a4"
+  },
+  "temperature": 36,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421139069"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97faf1205865caccce1b5"
+  },
+  "temperature": 22,
+  "humidity": 66,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421139069"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97fb41205865caccce1c6"
+  },
+  "temperature": 35,
+  "humidity": 50,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421139069"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97fb91205865caccce1d7"
+  },
+  "temperature": 29,
+  "humidity": 69,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421139069"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97fbe1205865caccce1e8"
+  },
+  "temperature": 23,
+  "humidity": 54,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421139069"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97fc31205865caccce1f9"
+  },
+  "temperature": 33,
+  "humidity": 53,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421139069"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97fc81205865caccce20a"
+  },
+  "temperature": 31,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421139069"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97fcd1205865caccce21b"
+  },
+  "temperature": 20,
+  "humidity": 60,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421139069"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97fe0ab0da905879d1eb4"
+  },
+  "temperature": 28,
+  "humidity": 61,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421215017"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d97fe9ab0da905879d1ec5"
+  },
+  "temperature": 29,
+  "humidity": 61,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421215017"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d980c1f5519cc161c5a012"
+  },
+  "temperature": 30,
+  "humidity": 69,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d980c7f5519cc161c5a023"
+  },
+  "temperature": 26,
+  "humidity": 52,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d980cbf5519cc161c5a034"
+  },
+  "temperature": 31,
+  "humidity": 67,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d980d3f5519cc161c5a045"
+  },
+  "temperature": 38,
+  "humidity": 64,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d980d6f5519cc161c5a056"
+  },
+  "temperature": 34,
+  "humidity": 53,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d980dbf5519cc161c5a067"
+  },
+  "temperature": 33,
+  "humidity": 60,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d980e0f5519cc161c5a078"
+  },
+  "temperature": 36,
+  "humidity": 62,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d980e4f5519cc161c5a089"
+  },
+  "temperature": 33,
+  "humidity": 55,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d980eaf5519cc161c5a09a"
+  },
+  "temperature": 37,
+  "humidity": 50,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d980eff5519cc161c5a0ab"
+  },
+  "temperature": 33,
+  "humidity": 55,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d980f4f5519cc161c5a0bc"
+  },
+  "temperature": 33,
+  "humidity": 50,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d980faf5519cc161c5a0ce"
+  },
+  "temperature": 27,
+  "humidity": 50,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d980fff5519cc161c5a0df"
+  },
+  "temperature": 28,
+  "humidity": 52,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d98104f5519cc161c5a0f0"
+  },
+  "temperature": 25,
+  "humidity": 60,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d9811cf5519cc161c5a101"
+  },
+  "temperature": 29,
+  "humidity": 52,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d9811cf5519cc161c5a112"
+  },
+  "temperature": 22,
+  "humidity": 68,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d9811df5519cc161c5a123"
+  },
+  "temperature": 39,
+  "humidity": 59,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d9811df5519cc161c5a134"
+  },
+  "temperature": 28,
+  "humidity": 63,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d9811ef5519cc161c5a145"
+  },
+  "temperature": 27,
+  "humidity": 57,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d98123f5519cc161c5a156"
+  },
+  "temperature": 23,
+  "humidity": 52,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d98128f5519cc161c5a167"
+  },
+  "temperature": 32,
+  "humidity": 67,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d9812df5519cc161c5a178"
+  },
+  "temperature": 36,
+  "humidity": 58,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d98132f5519cc161c5a189"
+  },
+  "temperature": 37,
+  "humidity": 51,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d98137f5519cc161c5a19a"
+  },
+  "temperature": 27,
+  "humidity": 67,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d9813cf5519cc161c5a1ab"
+  },
+  "temperature": 38,
+  "humidity": 59,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d98141f5519cc161c5a1bc"
+  },
+  "temperature": 31,
+  "humidity": 69,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d98146f5519cc161c5a1cd"
+  },
+  "temperature": 28,
+  "humidity": 61,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d9814bf5519cc161c5a1de"
+  },
+  "temperature": 38,
+  "humidity": 52,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d98150f5519cc161c5a1ef"
+  },
+  "temperature": 22,
+  "humidity": 54,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d98155f5519cc161c5a200"
+  },
+  "temperature": 35,
+  "humidity": 64,
+  "time": {
+    "$date": {
+      "$numberLong": "1658421385388"
+    }
+  }
+}]

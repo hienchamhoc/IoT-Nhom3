@@ -1,0 +1,55 @@
+body, html {
+    height: 100%;
+}
+
+#root {
+    height: 100%;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.full-height {
+    height: 100%;
+}
+
+.bg-nav-home {
+    background: rgba(159, 165, 213, 1);
+}
+
+.bg-home {
+    background: linear-gradient(90deg, rgba(159, 165, 213) 14%, rgba(232, 245, 200, 1) 100%)!important;
+}
+
+.bg-main {
+    background: radial-gradient(circle, rgba(232, 245, 200, 1) 0%, rgba(159, 165, 213) 100%)!important;
+}
+
+.btn-custom {
+    width: 100%;
+    background: radial-gradient(circle, rgba(232, 245, 200, 1) 0%, rgba(159, 165, 213) 100%)!important;
+}
+
+.btn-custom:hover {
+    color: white;
+}
+
+.btn-nav {
+    width: 80%;
+    color: white;
+    background: rgb(232, 245, 200);
+}
+
+.btn-nav:hover {
+    background-color: rgb(196, 221, 133);
+}
+
+.avatar {
+    width: 40%;
+    height: fit-content;
+}
+
+.input-width {
+    width: 75px!important;
+}

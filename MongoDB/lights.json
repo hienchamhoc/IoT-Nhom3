@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "62d9699c6a8ac33f84c7dd15"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658415516690"
+    }
+  },
+  "name": "Living Room Light",
+  "type": "abcd",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1658415516690"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62d96e466a8ac33f84c7dd2e"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658416710184"
+    }
+  },
+  "name": "Bed Room Light",
+  "type": "1234",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1658416710184"
+    }
+  }
+}]
